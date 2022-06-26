@@ -1,6 +1,9 @@
+//redux toolkit
 import { Provider } from "react-redux";
-import Counter from "./Counter";
 import store from "./store";
+
+//component
+import Counter from "./Counter";
 
 function App() {
   return (
